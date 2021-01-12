@@ -9,8 +9,8 @@ theme = "hugo-creative-portfolio-theme"
     description = "BroodjeAap Projects"
     # Nav links in the side bar
     [[params.navlinks]]
-    name = "Home"
-    url = "posts/"
+    name = "Projects"
+    url = "projects/"
     home = true
 
     [params.social]
