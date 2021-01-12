@@ -7,8 +7,8 @@ image: "/img/ohthatsa/main.png"
 <!--more-->
 An app to help you learn how to calculate day of the week from any date.  
 
-Mostly made to try out Dart/Flutter.
-
+Mostly made to try out Dart/Flutter, source can be found on my Gitea:  
+https://gitea.broodjeaap.net/broodjeaap/OhThatsA
 
 ## App
 
