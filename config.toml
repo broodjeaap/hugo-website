@@ -1,4 +1,4 @@
-baseURL = "https://broodjeaap.net/"
+baseURL = "https://broodjeaap.net"
 languageCode = "en-us"
 title = "BroodjeAap"
 
@@ -7,11 +7,13 @@ theme = "hugo-creative-portfolio-theme"
 [params]
     style = "blue"
     description = "BroodjeAap Projects"
+    
     # Nav links in the side bar
+    
     [[params.navlinks]]
     name = "Projects"
-    url = "projects/"
-    home = true
+    url = "projects"
+
 
     [params.social]
     email         = "email@example.com"
