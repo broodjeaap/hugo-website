@@ -1,8 +1,8 @@
 ---
-title = "OhThatsA App"
-date = 2021-01-11T20:45:36+01:00
-draft = false
-image = "/img/ohthatsa/main.png"
+title: "OhThatsA App"
+date: 2021-01-11T20:45:36+01:00
+draft: false
+image: "/img/ohthatsa/main.png"
 ---
 <!--more-->
 An app to help you learn how to calculate day of the week from any date.  
