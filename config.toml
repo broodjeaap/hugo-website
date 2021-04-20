@@ -15,6 +15,10 @@ theme = "hugo-creative-portfolio-theme"
     url = "projects"
     home = true
 
+    [[params.navlinks]]
+    name = "About"
+    url = "about/"
+
 
     [params.social]
     email         = "email@example.com"
