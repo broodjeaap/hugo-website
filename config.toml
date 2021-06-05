@@ -21,9 +21,9 @@ theme = "hugo-creative-portfolio-theme"
 
 
     [params.social]
-    email         = "email@example.com"
-    twitter       = "full profile url in twitter"
-    linkedin      = "full profile url in linkedin"
+    email         = "david@broodjeaap.net"
+    twitter       = "https://twitter.com/BroodjeAap89"
+    linkedin      = "https://www.linkedin.com/in/david-zessen-10626872/"
     instagram     = "https://www.instagram.com/davidzessen/"
     github        = "https://github.com/broodjeaap"
     youtube       = "https://www.youtube.com/user/Broodjeaap89"
