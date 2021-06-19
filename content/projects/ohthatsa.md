@@ -10,6 +10,8 @@ An app to help you learn how to calculate day of the week from any date.
 Mostly made to try out Dart/Flutter, source can be found on my Gitea:  
 https://gitea.broodjeaap.net/broodjeaap/OhThatsA
 
+The app is available on the [Google Play store](https://play.google.com/store/apps/details?id=net.broodjeaap.ohthatsa).
+
 ## App
 
 ### Practice overview
