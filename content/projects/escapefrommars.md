@@ -10,6 +10,8 @@ Source code was thought to be lost, but recovered by decompling an APK with [JAD
 
 The game is available on the [Google Play store](https://play.google.com/store/apps/details?id=net.broodjeaap.escapefrommars).
 
+Source isn't shared at the moment, because it's an older project, there are some uncertainties regarding licensing of assets.
+
 ## Game
 
 ### Gameplay
