@@ -6,7 +6,7 @@ image: "/img/escapefrommars/main.png"
 ---
 <!--more-->
 A game created during the [Game Design & Development](https://cmgt.hr.nl/informatie/minor-game-design-and-development) minor.
-Source code was thought to be lost, but recovered by decompling an APK with [JADX](https://github.com/skylot/jadx) and refactored to work with a template project created with [libgdx-liftoff](https://github.com/tommyettinger/gdx-liftoff).
+Source code was thought to be lost, but recovered by decompiling an APK with [JADX](https://github.com/skylot/jadx) and refactored to work with a template project created with [libgdx-liftoff](https://github.com/tommyettinger/gdx-liftoff).
 
 The game is available on the [Google Play store](https://play.google.com/store/apps/details?id=net.broodjeaap.escapefrommars).
 
